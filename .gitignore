@@ -6,3 +6,15 @@
 *.csproj
 *.unityproj
 *.sln
+ProjectSettings/AudioManager.asset
+ProjectSettings/DynamicsManager.asset
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/EditorSettings.asset
+ProjectSettings/GraphicsSettings.asset
+ProjectSettings/NavMeshLayers.asset
+ProjectSettings/NetworkManager.asset
+ProjectSettings/Physics2DSettings.asset
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/QualitySettings.asset
+ProjectSettings/TagManager.asset
+ProjectSettings/TimeManager.asset
