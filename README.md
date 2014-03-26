@@ -25,38 +25,59 @@ In the project exists a Main.scene which can be used to test inputs on the actua
 
 ## Button Names
 
+This table lists the strings used in the InputManager.asset as well as the keyboard mappings used by the IPAC controller.  If you are not using Unity and want to map your inputs to those used by the arcade cabinet, please use the tables below.
+
+#### Forced Quit
+
+Button     |  Key
+-----------|-------
+Force Quit | C
+
+
 #### Player 1
-- P1_Up
-- P1_Down
-- P1_Left
-- P1_Right
-- P1_Button1
-- P1_Button2 
-- P1_Button3
+
+Button     | Key
+-----------|-----
+P1_Up      | up arrow
+P1_Down    | down arrow
+P1_Left    | left arrow
+P1_Right   | right arrow
+P1_Button1 | left ctrl
+P1_Button2 | left alt
+P1_Button3 | space
 
 #### Player 2
-- P2_Up
-- P2_Down
-- P2_Left
-- P2_Right
-- P2_Button1
-- P2_Button2
-- P2_Button3 
+
+Button     | Key
+-----------|-----
+P2_Up      | R
+P2_Down    | F
+P2_Left    | D
+P2_Right   | G
+P2_Button1 | A
+P2_Button2 | S
+P2_Button3 | Q
 
 #### Player 3
-- P3_Up
-- P3_Down
-- P3_Left
-- P3_Right
-- P3_Button1 
-- P3_Button2
-- P3_Button3 
+
+Button     | Key
+-----------|-----
+P3_Up      | I
+P3_Down    | K
+P3_Left    | J
+P3_Right   | L
+P3_Button1 | right ctrl
+P3_Button2 | right shift
+P3_Button3 | enter
 
 #### Player 4
-- P4_Up
-- P4_Down
-- P4_Left
-- P4_Right
-- P4_Button1 
-- P4_Button2
-- P4_Button3
+
+Button     | Key
+-----------|-----
+P4_Up      | Y
+P4_Down    | N
+P4_Left    | V
+P4_Right   | U
+P4_Button1 | B
+P4_Button2 | E
+P4_Button3 | H
