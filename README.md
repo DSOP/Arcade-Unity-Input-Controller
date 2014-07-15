@@ -66,8 +66,8 @@ P3_Up      | I
 P3_Down    | K
 P3_Left    | J
 P3_Right   | L
-P3_Button1 | right ctrl
-P3_Button2 | right shift
+P3_Button1 | [
+P3_Button2 | ]
 P3_Button3 | enter
 
 #### Player 4
