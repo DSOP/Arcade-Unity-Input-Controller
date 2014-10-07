@@ -42,8 +42,8 @@ P1_Up      | up arrow
 P1_Down    | down arrow
 P1_Left    | left arrow
 P1_Right   | right arrow
-P1_Button1 | left ctrl
-P1_Button2 | left alt
+P1_Button1 | Z
+P1_Button2 | X
 P1_Button3 | space
 
 #### Player 2
